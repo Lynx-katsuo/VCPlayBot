@@ -23,23 +23,23 @@ Maintained by @HEROGAMERS1 ❤
             [
                 [
                     InlineKeyboardButton(
-                        "🌍 Music World", url="https://t.me/GIRLS_AND_BOYS_CHATTING",
+                        "🌍 Music World", url="https://t.me/Heroic_Association",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/AwesomeSupport"
+                        "💬 Group", url="https://t.me/Heroic_Association"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/LaylaList"
+                        "🔊 Channel", url="https://t.me/Heroic_Domain"
                     ),
                     InlineKeyboardButton(
-                        "💾 Source code", url="https://github.com/QueenArzoo/VCPlayBot"
+                        "💾 Source code", url="https://github.com/Lynx-katsuo"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/VCPlayBot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/Vanguard_Discomusicbot?startgroup=true"
                     ) 
                 ]
             ]
@@ -58,10 +58,10 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/LaylaList"
+                        "🔊 Channel", url="https://t.me/Heroic_Domain"
                     ),
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/AwesomeSupport"
+                        "💬 Group", url="https://t.me/Heroic_Association"
                     )
                 ],    
                 [    
@@ -107,10 +107,10 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/LaylaList"
+                        "🔊 Channel", url="https://t.me/Heroic_Domain"
                     ),
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/AwesomeSupport"
+                        "💬 Group", url="https://t.me/Heroic_Association"
                     )
                 ]
             ]
